@@ -1,7 +1,7 @@
 {
   "name": "zakat-calculator",
   "version": "0.1.0",
-  "homepage": "https://prosperityfund.github.io/zakat-calculator",
+  "homepage": "https://prosperityfund.github.io/zakat-calculator/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
