@@ -170,7 +170,7 @@ function Calculator() {
                 </div>
             </div>
             <div className='p-1 w-[100%] mb-16 bg-gradient-to-l from-[#63C8FC] to-[#68DFEA] px-[50px] py-[100px]'>
-                <p className='text-white text-center text-8xl belleza mb-5'>Zakat Calculator (Beta Version)</p>
+                <p className='text-white text-center text-8xl belleza mb-5'>Zakat Calculator (Beta)</p>
                 <p className='text-white text-center text-lg'>Don’t know how to calculate your Zakat obligation? We can walk you through it.</p>
             </div>
             <div className="flex">
