@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/zakat-calculator/static/css/main.cd803300.css",
-    "main.js": "/zakat-calculator/static/js/main.221d73f3.js",
-    "static/js/787.bd2cfd82.chunk.js": "/zakat-calculator/static/js/787.bd2cfd82.chunk.js",
-    "static/media/TheProsperityFundLogo.svg": "/zakat-calculator/static/media/TheProsperityFundLogo.6d78708800ebfe322fd564277fc54b9f.svg",
-    "static/media/Belleza-Regular.ttf": "/zakat-calculator/static/media/Belleza-Regular.cd095d8cf5ac9604d1d4.ttf",
-    "static/media/Debts-Icon.png": "/zakat-calculator/static/media/Debts-Icon.7f43492d71eb1a1fbc5a.png",
-    "static/media/StocksAndCrypto-Icon.png": "/zakat-calculator/static/media/StocksAndCrypto-Icon.e582b4cb5f275ee0880a.png",
-    "static/media/House-Icon.png": "/zakat-calculator/static/media/House-Icon.9335ce3c279f02bddd8c.png",
-    "static/media/Jewelry-Icon.png": "/zakat-calculator/static/media/Jewelry-Icon.c0ad4d6f77050fe57b8b.png",
-    "static/media/Cash-Icon.png": "/zakat-calculator/static/media/Cash-Icon.bf71f1575148c27d0853.png",
-    "static/media/Expenses-Icon.png": "/zakat-calculator/static/media/Expenses-Icon.d082c76d717e8c3545c6.png",
-    "static/media/logo.svg": "/zakat-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/zakat-calculator/index.html",
-    "main.cd803300.css.map": "/zakat-calculator/static/css/main.cd803300.css.map",
-    "main.221d73f3.js.map": "/zakat-calculator/static/js/main.221d73f3.js.map",
-    "787.bd2cfd82.chunk.js.map": "/zakat-calculator/static/js/787.bd2cfd82.chunk.js.map"
+    "main.css": "/ZakatCalculator/static/css/main.b8cc8b92.css",
+    "main.js": "/ZakatCalculator/static/js/main.5ccc4651.js",
+    "static/js/787.bd2cfd82.chunk.js": "/ZakatCalculator/static/js/787.bd2cfd82.chunk.js",
+    "static/media/TheProsperityFundLogo.svg": "/ZakatCalculator/static/media/TheProsperityFundLogo.6d78708800ebfe322fd564277fc54b9f.svg",
+    "static/media/Belleza-Regular.ttf": "/ZakatCalculator/static/media/Belleza-Regular.cd095d8cf5ac9604d1d4.ttf",
+    "static/media/Debts-Icon.png": "/ZakatCalculator/static/media/Debts-Icon.7f43492d71eb1a1fbc5a.png",
+    "static/media/StocksAndCrypto-Icon.png": "/ZakatCalculator/static/media/StocksAndCrypto-Icon.e582b4cb5f275ee0880a.png",
+    "static/media/House-Icon.png": "/ZakatCalculator/static/media/House-Icon.9335ce3c279f02bddd8c.png",
+    "static/media/Jewelry-Icon.png": "/ZakatCalculator/static/media/Jewelry-Icon.c0ad4d6f77050fe57b8b.png",
+    "static/media/Cash-Icon.png": "/ZakatCalculator/static/media/Cash-Icon.bf71f1575148c27d0853.png",
+    "static/media/Expenses-Icon.png": "/ZakatCalculator/static/media/Expenses-Icon.d082c76d717e8c3545c6.png",
+    "static/media/logo.svg": "/ZakatCalculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ZakatCalculator/index.html",
+    "main.b8cc8b92.css.map": "/ZakatCalculator/static/css/main.b8cc8b92.css.map",
+    "main.5ccc4651.js.map": "/ZakatCalculator/static/js/main.5ccc4651.js.map",
+    "787.bd2cfd82.chunk.js.map": "/ZakatCalculator/static/js/787.bd2cfd82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd803300.css",
-    "static/js/main.221d73f3.js"
+    "static/css/main.b8cc8b92.css",
+    "static/js/main.5ccc4651.js"
   ]
 }
