@@ -162,7 +162,7 @@ function Calculator() {
             <div className='w-full flex top-0 sticky z-50 border-b-[1px] border-gray-200 drop-shadow p-8 bg-white'>
                 <div className='flex-1'></div>
                 <div className='flex-1 h-full flex justify-center'>
-                        <img src={TheProsperityFundLogo} className="min-w-[150px]"></img>
+                    <img src={TheProsperityFundLogo} className="min-w-[150px]"></img>
                 </div>
                 <div className='flex-1 justify-right'>
                     <p className='text-md text-right'>Zakatable Wealth</p>
@@ -170,10 +170,10 @@ function Calculator() {
                 </div>
             </div>
             <div className='p-1 w-[100%] mb-16 bg-gradient-to-l from-[#63C8FC] to-[#68DFEA] px-[50px] py-[100px]'>
-                            <p className='text-white text-center text-8xl belleza mb-5'>Zakat Calculator (beta)</p>
-                            <p className='text-white text-center text-lg'>Don’t know how to calculate your Zakat obligation? We can walk you through it.</p>
+                <p className='text-white text-center text-8xl belleza mb-5'>Zakat Calculator (beta)</p>
+                <p className='text-white text-center text-lg'>Don’t know how to calculate your Zakat obligation? We can walk you through it.</p>
             </div>
-            <div className="flex">                                                                                                                                                                       
+            <div className="flex">
                 <CenteringSpacer />
                 <div className='flex-1 py-8'>
                     <CategoryCard name="Cash" twGradient="from-green-400 to-green-600" icon={CashIcon} description="Enter your current total cash balance." >
