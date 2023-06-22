@@ -7,7 +7,7 @@ import Donation from './pages/Donation';
 function App() {
   return (
     <Routes>
-      <Route path='/' element={<Calculator />}></Route>
+      <Route exact path='/' element={<Calculator />}></Route>
       <Route path='/donate' element={<Donation />}></Route>
     </Routes>
   )
