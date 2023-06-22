@@ -5,8 +5,12 @@ import Calculator from './pages/Calculator';
 import Donation from './pages/Donation';
 
 function App() {
+  console.log("Running app!");
   return (
-    <Calculator />
+    <Routes>
+      <Route path='/' element={<Calculator />}></Route>
+      <Route path='/donate' element={<Donation />}></Route>
+    </Routes>
   )
 }
 

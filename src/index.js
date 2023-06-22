@@ -6,9 +6,12 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+console.log(root);
 root.render(
   <React.StrictMode>
-    <h1>Hello</h1>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
