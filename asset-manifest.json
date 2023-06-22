@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zakat-calculator/static/css/main.cd803300.css",
-    "main.js": "/zakat-calculator/static/js/main.f2e2391f.js",
+    "main.js": "/zakat-calculator/static/js/main.221d73f3.js",
     "static/js/787.bd2cfd82.chunk.js": "/zakat-calculator/static/js/787.bd2cfd82.chunk.js",
     "static/media/TheProsperityFundLogo.svg": "/zakat-calculator/static/media/TheProsperityFundLogo.6d78708800ebfe322fd564277fc54b9f.svg",
     "static/media/Belleza-Regular.ttf": "/zakat-calculator/static/media/Belleza-Regular.cd095d8cf5ac9604d1d4.ttf",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/zakat-calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zakat-calculator/index.html",
     "main.cd803300.css.map": "/zakat-calculator/static/css/main.cd803300.css.map",
-    "main.f2e2391f.js.map": "/zakat-calculator/static/js/main.f2e2391f.js.map",
+    "main.221d73f3.js.map": "/zakat-calculator/static/js/main.221d73f3.js.map",
     "787.bd2cfd82.chunk.js.map": "/zakat-calculator/static/js/787.bd2cfd82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd803300.css",
-    "static/js/main.f2e2391f.js"
+    "static/js/main.221d73f3.js"
   ]
 }
