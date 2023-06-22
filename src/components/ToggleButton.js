@@ -8,7 +8,7 @@ function ToggleButton(props) {
 
     return (
         <button className={'w-[200px] h-[50px] rounded-lg bg-transparent border-[2px] ' + border + " " + innerShadow + " " + textColor + ' hover:border-[#63C8FC] p-0'}>
-            Hello
+            {props.children}
         </button>
     );
 }
